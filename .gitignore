@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.lock
+*.log
+.idea/
+.DS_Store
+archery/settings.py.github
+archery/settings.py.dev
+sql/migrations/
+venv
